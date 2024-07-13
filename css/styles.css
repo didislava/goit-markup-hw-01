@@ -56,12 +56,12 @@ button {
 }
 
 .hero-primary-button {
+    background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.04em;
-    color: #fff;
-    background-color: #4d5ae5;
+    color: #ffffff;
 }
 
 .hero-primary-button:hover {
@@ -167,7 +167,7 @@ button {
     background-color: #2e2f42;
 }
 
-.foter-logo-color {
+.footer-logo-color {
     color: #f4f4fd;
 }
 
