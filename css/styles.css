@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 
 ul {
@@ -52,7 +52,6 @@ button {
     font-size: 56px;
     line-height: 107%;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #fff;
 }
 
@@ -62,6 +61,15 @@ button {
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #fff;
+    background-color: #4d5ae5;
+}
+
+.hero-primary-button:hover {
+    background-color: #404bbf;
+}
+
+.hero-primary-button:focus {
+    background-color: #404bbf;
 }
 
 .features {}
@@ -91,7 +99,6 @@ button {
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
-    text-align: center;
     color: #2e2f42;
 }
 
@@ -126,11 +133,9 @@ button {
 }
 
 .team-subtitle {
-    text-align: center;
 }
 
 .team-item-text {
-    text-align: center;
 }
 
 .team-image {
