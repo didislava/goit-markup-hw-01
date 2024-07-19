@@ -40,12 +40,23 @@ button {
 
 .header-menu-link:hover,
 .header-menu-link:focus {
-color: #404bbf;}
+    color: #404bbf;
+}
+
+.header-contact-list {
+    font-style: normal;
+}
 
 .header-contacts-link {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.header-contacts-link:hover,
+.header-contacts-link:focus {
+    color: #404bbf;
 }
 
 .hero {
@@ -57,6 +68,7 @@ color: #404bbf;}
     font-size: 56px;
     line-height: 107%;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
 }
 
