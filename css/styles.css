@@ -38,8 +38,8 @@ button {
     color: #2e2f42;
 }
 
-.header-menu-item:hover,
-.header-menu-item:focus {
+.header-menu-link:hover,
+.header-menu-link:focus {
 color: #404bbf;}
 
 .header-contacts-link {
@@ -57,6 +57,7 @@ color: #404bbf;}
     font-size: 56px;
     line-height: 107%;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #fff;
 }
 
@@ -69,10 +70,7 @@ color: #404bbf;}
     color: #ffffff;
 }
 
-.hero-primary-button:hover {
-    background-color: #404bbf;
-}
-
+.hero-primary-button:hover,
 .hero-primary-button:focus {
     background-color: #404bbf;
 }
