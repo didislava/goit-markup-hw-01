@@ -35,7 +35,12 @@ button {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
+    color: #2e2f42;
 }
+
+.header-menu-item:hover,
+.header-menu-item:focus {
+color: #404bbf;}
 
 .header-contacts-link {
     font-size: 16px;
@@ -99,6 +104,7 @@ button {
     font-size: 36px;
     line-height: 111%;
     letter-spacing: 0.02em;
+    text-align: center;
     color: #2e2f42;
 }
 
